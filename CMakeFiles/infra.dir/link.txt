@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe cq libinfra.a  CMakeFiles/infra.dir/libs/infra/src/infra_vv_funcs.cpp.obj CMakeFiles/infra.dir/libs/infra/src/infra_vm_funcs.cpp.obj CMakeFiles/infra.dir/libs/infra/src/infra_mm_funcs.cpp.obj CMakeFiles/infra.dir/libs/infra/src/infra_exception.cpp.obj CMakeFiles/infra.dir/libs/infra/src/infra_binary.cpp.obj
+C:\MinGW\bin\ranlib.exe libinfra.a

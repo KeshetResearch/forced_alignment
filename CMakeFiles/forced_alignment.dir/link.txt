@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe cq libforced_alignment.a  CMakeFiles/forced_alignment.dir/src/Classifier.cpp.obj CMakeFiles/forced_alignment.dir/src/Dataset.cpp.obj
+C:\MinGW\bin\ranlib.exe libforced_alignment.a

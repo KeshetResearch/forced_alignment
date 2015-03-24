@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe cq libcmd_line.a  CMakeFiles/cmd_line.dir/libs/cmd_line/src/cmd_line.cpp.obj
+C:\MinGW\bin\ranlib.exe libcmd_line.a

@@ -1,0 +1,5 @@
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/CMakeFiles/ForcedAlignmentTrain.dir
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/CMakeFiles/ForcedAlignmentDecode.dir
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/CMakeFiles/forced_alignment.dir
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/CMakeFiles/cmd_line.dir
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/CMakeFiles/infra.dir

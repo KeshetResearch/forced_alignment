@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/libs/cmd_line/src/cmd_line.cpp
+iostream
+-
+libgen.h
+-
+cmd_line.h
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/libs/cmd_line/src/cmd_line.h
+cmd_option.h
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/libs/cmd_line/src/cmd_option.h
+
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/libs/cmd_line/src/cmd_line.h
+string
+-
+vector
+-
+
+D:/Dropbox/Work/biu/opensource/forced_alignment/forced_alignment/libs/cmd_line/src/cmd_option.h
+string
+-
+cstdlib
+-
+
