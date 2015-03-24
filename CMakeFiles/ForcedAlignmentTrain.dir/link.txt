@@ -1,3 +1,0 @@
-C:\Develop\CMake\bin\cmake.exe -E remove -f CMakeFiles\ForcedAlignmentTrain.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\ForcedAlignmentTrain.dir/objects.a @CMakeFiles\ForcedAlignmentTrain.dir\objects1.rsp
-C:\MinGW\bin\g++.exe     -Wl,--whole-archive CMakeFiles\ForcedAlignmentTrain.dir/objects.a -Wl,--no-whole-archive  -o ForcedAlignmentTrain.exe -Wl,--out-implib,libForcedAlignmentTrain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ForcedAlignmentTrain.dir\linklibs.rsp
